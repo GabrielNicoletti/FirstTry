@@ -53,6 +53,8 @@ User must go advanced page - security - set admin credentials to not required an
 
 Verify ONT IPv4 connection
 
+    [Tags]  Current
+
     BasicsApp.Navigate to Status Page
     Status.Verify if ONT IPv4 is connected
 
