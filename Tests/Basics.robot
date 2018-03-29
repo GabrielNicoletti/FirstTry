@@ -38,7 +38,7 @@ User must be able to go only to ethernet page
 
 User must go advanced page - security - set admin credentials to not required and get back in without logging in
     [Documentation]  User must go advanced page - security - set admin credentials to not required and get back in without logging in
-    [Tags]  Current  Tag
+    [Tags]  Current
     BasicsApp.Navigate to Advanced Page
     #Advanced.Click Security tab
     #this mouseover test is currently working for chrome only
